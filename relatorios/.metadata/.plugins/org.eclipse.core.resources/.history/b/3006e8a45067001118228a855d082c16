@@ -1,0 +1,26 @@
+<!-- Created with Jaspersoft Studio version 7.0.6.final using JasperReports Library version 7.0.6-5d2a603fdc6b3db8f842a83383e594f41891534d  -->
+<jasperReport name="nota-fiscal" language="java" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="e243d065-3190-4697-89e6-00dd66e23139">
+	<query language="sql"><![CDATA[]]></query>
+	<background splitType="Stretch"/>
+	<title height="85" splitType="Stretch">
+		<element kind="image" uuid="4faa9a5d-f4b2-44db-bcb4-ea879c13f7d6" x="130" y="0" width="270" height="67">
+			<expression><![CDATA[""]]></expression>
+		</element>
+	</title>
+	<pageHeader height="46" splitType="Stretch">
+		<element kind="staticText" uuid="b5947689-da1e-4f23-b047-d2f1accb7b43" x="0" y="0" width="560" height="40" fontSize="14.0" bold="true" hTextAlign="Center">
+			<text><![CDATA[Nota Fiscal]]></text>
+			<box>
+				<topPen lineWidth="0.25"/>
+				<bottomPen lineWidth="0.25"/>
+			</box>
+		</element>
+	</pageHeader>
+	<columnHeader height="61" splitType="Stretch"/>
+	<detail>
+		<band height="125" splitType="Stretch"/>
+	</detail>
+	<columnFooter height="45" splitType="Stretch"/>
+	<pageFooter height="54" splitType="Stretch"/>
+	<summary height="42" splitType="Stretch"/>
+</jasperReport>

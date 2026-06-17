@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+/home/edufedora/COMPUTACAO/BACKEND/PRATICA/KAFKA_JASPER_MS/relatorios/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+1840902574.index
